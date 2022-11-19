@@ -31,7 +31,7 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-sass": "^4.0.2",
     "jquery": "^3.4.1",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-stream": "^5.2.1"
   }
 }
